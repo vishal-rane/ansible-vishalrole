@@ -1,0 +1,2 @@
+# ansible-vishalrole
+my role
